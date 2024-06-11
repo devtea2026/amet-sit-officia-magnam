@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/amet-sit-officia-magnam",
-  "version": "2.2.34",
+  "version": "2.2.35",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -593,5 +593,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/amet-sit-officia-magnam/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
